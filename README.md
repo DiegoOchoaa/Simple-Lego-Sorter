@@ -4,5 +4,8 @@ A semi-automatic cost-effective lego sorter using Rasberry pi and Arduino. It wo
 
 Videos of the machine and process.
 Crop: https://youtube.com/shorts/ZvXFGzaahP0?si=fQqNUCgRmaPmn93q
+
 Identifying: https://youtube.com/shorts/4_2Yr9evaRA?si=MRb1-KMRDLQlu7wT
+
 Working: https://youtube.com/shorts/lu8it-OlEzg?si=gVOFo2IZUwQEvlGp
+
