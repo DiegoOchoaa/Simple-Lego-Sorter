@@ -10,3 +10,4 @@ Identifying: https://youtube.com/shorts/4_2Yr9evaRA?si=MRb1-KMRDLQlu7wT
 
 Working: https://youtube.com/shorts/lu8it-OlEzg?si=gVOFo2IZUwQEvlGp
 
+<img width="603" alt="lego" src="https://github.com/user-attachments/assets/587d02b9-6d9a-47b2-af8f-a7a4a85e7d50">
